@@ -1,0 +1,3 @@
+# Git project
+
+Example text.
